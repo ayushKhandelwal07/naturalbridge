@@ -37,7 +37,7 @@ const Navbar = () => {
           <div className="w-8 h-8 rounded-full bg-primary/10 flex items-center justify-center group-hover:scale-110 transition-all">
             <div className="w-5 h-5 rounded-full bg-primary"></div>
           </div>
-          <span className="transition-transform group-hover:translate-x-1">Terra</span>
+          <span className="transition-transform group-hover:translate-x-1">Natural Bridge</span>
         </a>
 
         {/* Desktop Navigation */}
